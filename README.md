@@ -1,8 +1,6 @@
 # cosc-480-text-detection
 Ensemble example of utilizing RoBERTa to classify LLM generated text
 
-## Final submission for COSC480 (.py file)
-
 This is my final submission for COSC480. It code that trains an ensembled model with human generated feature augmentation in order to better discriminate between AI and human written text. 
 
 The list of files is, as below:
