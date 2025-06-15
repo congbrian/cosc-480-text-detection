@@ -45,8 +45,6 @@ python3 '480_ensemble(1).py'
 
 Brian Cong – bcong@emich.edu
 
-Project Link: https://github.com/Taichi22/CollegeCode/tree/23fe17e126fe2a934ea95bc0afcc369345e2100e/CSE480
-
 ## Acknowledgements
 
 - Thanks to Dr. Spantidi for assisting with ideas and code consultation.
