@@ -23,19 +23,23 @@ GPT_Text_Generation -- openai API
 
 
 # Installation commands:
-# pip install "tf-models-official==2.13.*"
-# pip install -U "tensorflow-text==2.13.*"
-# pip install openai
+### Note!! Strongly do not recommend attempting to use the project as is; at best it should be used as a broad guideline or starting point! Tensorflow is deprecated!
+```
+pip install "tf-models-official==2.13.*"
+pip install -U "tensorflow-text==2.13.*"
+pip install openai
+```
 
 ## Usage
 
 Install required modules and then run .py files.
 
-# pip install "tf-models-official==2.13.*"
-# pip install -U "tensorflow-text==2.13.*"
-# pip install openai
-# python3 '480_ensemble(1).py'
-
+```
+pip install "tf-models-official==2.13.*"
+pip install -U "tensorflow-text==2.13.*"
+pip install openai
+python3 '480_ensemble(1).py'
+```
 
 ## Contact
 
